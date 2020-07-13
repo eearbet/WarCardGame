@@ -1,0 +1,10 @@
+C:\Users\15arb\source\repos\VisualWar\VisualWar\bin\Debug\VisualWar.exe.config
+C:\Users\15arb\source\repos\VisualWar\VisualWar\bin\Debug\VisualWar.exe
+C:\Users\15arb\source\repos\VisualWar\VisualWar\bin\Debug\VisualWar.pdb
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.csprojAssemblyReference.cache
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.Form1.resources
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.Properties.Resources.resources
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.csproj.GenerateResource.cache
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.csproj.CoreCompileInputs.cache
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.exe
+C:\Users\15arb\source\repos\VisualWar\VisualWar\obj\Debug\VisualWar.pdb
